@@ -11,3 +11,8 @@ ul {
 ul.navbar-right {
     margin-right: 0; 
 }
+
+div.navbar-default {
+    background-color:#f1ffff;
+}
+
